@@ -1,0 +1,547 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "eslint.config.js",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/eslint.config.js",
+      "source_location": "L1",
+      "id": "users_xurui_documents_workspace_onpractice_frontend_eslint_config_js",
+      "community": 9,
+      "norm_label": "eslint.config.js"
+    },
+    {
+      "label": "vite.config.ts",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/vite.config.ts",
+      "source_location": "L1",
+      "id": "users_xurui_documents_workspace_onpractice_frontend_vite_config_ts",
+      "community": 10,
+      "norm_label": "vite.config.ts"
+    },
+    {
+      "label": "app.spec.ts",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/tests/app.spec.ts",
+      "source_location": "L1",
+      "id": "users_xurui_documents_workspace_onpractice_frontend_tests_app_spec_ts",
+      "community": 11,
+      "norm_label": "app.spec.ts"
+    },
+    {
+      "label": "App.tsx",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/App.tsx",
+      "source_location": "L1",
+      "id": "users_xurui_documents_workspace_onpractice_frontend_src_app_tsx",
+      "community": 2,
+      "norm_label": "app.tsx"
+    },
+    {
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/App.tsx",
+      "source_location": "L13",
+      "id": "app_app",
+      "community": 2,
+      "norm_label": "app()"
+    },
+    {
+      "label": "main.tsx",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/main.tsx",
+      "source_location": "L1",
+      "id": "users_xurui_documents_workspace_onpractice_frontend_src_main_tsx",
+      "community": 2,
+      "norm_label": "main.tsx"
+    },
+    {
+      "label": "appStore.ts",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/stores/appStore.ts",
+      "source_location": "L1",
+      "id": "users_xurui_documents_workspace_onpractice_frontend_src_stores_appstore_ts",
+      "community": 12,
+      "norm_label": "appstore.ts"
+    },
+    {
+      "label": "Inbox.tsx",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Inbox/Inbox.tsx",
+      "source_location": "L1",
+      "id": "users_xurui_documents_workspace_onpractice_frontend_src_components_inbox_inbox_tsx",
+      "community": 1,
+      "norm_label": "inbox.tsx"
+    },
+    {
+      "label": "handleAddTask()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Inbox/Inbox.tsx",
+      "source_location": "L8",
+      "id": "inbox_handleaddtask",
+      "community": 1,
+      "norm_label": "handleaddtask()"
+    },
+    {
+      "label": "handleKeyDown()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Inbox/Inbox.tsx",
+      "source_location": "L15",
+      "id": "inbox_handlekeydown",
+      "community": 1,
+      "norm_label": "handlekeydown()"
+    },
+    {
+      "label": "formatTime()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Inbox/Inbox.tsx",
+      "source_location": "L21",
+      "id": "inbox_formattime",
+      "community": 1,
+      "norm_label": "formattime()"
+    },
+    {
+      "label": "handleDecision()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Inbox/Inbox.tsx",
+      "source_location": "L31",
+      "id": "inbox_handledecision",
+      "community": 1,
+      "norm_label": "handledecision()"
+    },
+    {
+      "label": "Archive.tsx",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Archive/Archive.tsx",
+      "source_location": "L1",
+      "id": "users_xurui_documents_workspace_onpractice_frontend_src_components_archive_archive_tsx",
+      "community": 4,
+      "norm_label": "archive.tsx"
+    },
+    {
+      "label": "handleToggleExpand()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Archive/Archive.tsx",
+      "source_location": "L8",
+      "id": "archive_handletoggleexpand",
+      "community": 4,
+      "norm_label": "handletoggleexpand()"
+    },
+    {
+      "label": "Layout.tsx",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Layout/Layout.tsx",
+      "source_location": "L1",
+      "id": "users_xurui_documents_workspace_onpractice_frontend_src_components_layout_layout_tsx",
+      "community": 3,
+      "norm_label": "layout.tsx"
+    },
+    {
+      "label": "Particles()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Layout/Layout.tsx",
+      "source_location": "L4",
+      "id": "layout_particles",
+      "community": 3,
+      "norm_label": "particles()"
+    },
+    {
+      "label": "handleNavClick()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Layout/Layout.tsx",
+      "source_location": "L40",
+      "id": "layout_handlenavclick",
+      "community": 3,
+      "norm_label": "handlenavclick()"
+    },
+    {
+      "label": "Recycle.tsx",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Recycle/Recycle.tsx",
+      "source_location": "L1",
+      "id": "users_xurui_documents_workspace_onpractice_frontend_src_components_recycle_recycle_tsx",
+      "community": 5,
+      "norm_label": "recycle.tsx"
+    },
+    {
+      "label": "Recycle()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Recycle/Recycle.tsx",
+      "source_location": "L3",
+      "id": "recycle_recycle",
+      "community": 5,
+      "norm_label": "recycle()"
+    },
+    {
+      "label": "Projects.tsx",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Projects/Projects.tsx",
+      "source_location": "L1",
+      "id": "users_xurui_documents_workspace_onpractice_frontend_src_components_projects_projects_tsx",
+      "community": 6,
+      "norm_label": "projects.tsx"
+    },
+    {
+      "label": "Projects()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Projects/Projects.tsx",
+      "source_location": "L4",
+      "id": "projects_projects",
+      "community": 6,
+      "norm_label": "projects()"
+    },
+    {
+      "label": "ProjectDetail.tsx",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/ProjectDetail/ProjectDetail.tsx",
+      "source_location": "L1",
+      "id": "users_xurui_documents_workspace_onpractice_frontend_src_components_projectdetail_projectdetail_tsx",
+      "community": 0,
+      "norm_label": "projectdetail.tsx"
+    },
+    {
+      "label": "handleBack()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/ProjectDetail/ProjectDetail.tsx",
+      "source_location": "L88",
+      "id": "projectdetail_handleback",
+      "community": 0,
+      "norm_label": "handleback()"
+    },
+    {
+      "label": "handleToggleComplete()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/ProjectDetail/ProjectDetail.tsx",
+      "source_location": "L95",
+      "id": "projectdetail_handletogglecomplete",
+      "community": 0,
+      "norm_label": "handletogglecomplete()"
+    },
+    {
+      "label": "handleFinishSplitting()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/ProjectDetail/ProjectDetail.tsx",
+      "source_location": "L103",
+      "id": "projectdetail_handlefinishsplitting",
+      "community": 0,
+      "norm_label": "handlefinishsplitting()"
+    },
+    {
+      "label": "handleAddNodes()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/ProjectDetail/ProjectDetail.tsx",
+      "source_location": "L108",
+      "id": "projectdetail_handleaddnodes",
+      "community": 0,
+      "norm_label": "handleaddnodes()"
+    },
+    {
+      "label": "handleAdvanceStage()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/ProjectDetail/ProjectDetail.tsx",
+      "source_location": "L156",
+      "id": "projectdetail_handleadvancestage",
+      "community": 0,
+      "norm_label": "handleadvancestage()"
+    },
+    {
+      "label": "handleCompleteReview()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/ProjectDetail/ProjectDetail.tsx",
+      "source_location": "L172",
+      "id": "projectdetail_handlecompletereview",
+      "community": 0,
+      "norm_label": "handlecompletereview()"
+    },
+    {
+      "label": "Possibility.tsx",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Possibility/Possibility.tsx",
+      "source_location": "L1",
+      "id": "users_xurui_documents_workspace_onpractice_frontend_src_components_possibility_possibility_tsx",
+      "community": 7,
+      "norm_label": "possibility.tsx"
+    },
+    {
+      "label": "Possibility()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Possibility/Possibility.tsx",
+      "source_location": "L3",
+      "id": "possibility_possibility",
+      "community": 7,
+      "norm_label": "possibility()"
+    },
+    {
+      "label": "Execution.tsx",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Execution/Execution.tsx",
+      "source_location": "L1",
+      "id": "users_xurui_documents_workspace_onpractice_frontend_src_components_execution_execution_tsx",
+      "community": 8,
+      "norm_label": "execution.tsx"
+    },
+    {
+      "label": "handleToggleComplete()",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Execution/Execution.tsx",
+      "source_location": "L6",
+      "id": "execution_handletogglecomplete",
+      "community": 8,
+      "norm_label": "handletogglecomplete()"
+    },
+    {
+      "label": "api.ts",
+      "file_type": "code",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/services/api.ts",
+      "source_location": "L1",
+      "id": "users_xurui_documents_workspace_onpractice_frontend_src_services_api_ts",
+      "community": 13,
+      "norm_label": "api.ts"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/App.tsx",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_app_tsx",
+      "_tgt": "app_app",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_app_tsx",
+      "target": "app_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/main.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_main_tsx",
+      "_tgt": "users_xurui_documents_workspace_onpractice_frontend_src_app_tsx",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_app_tsx",
+      "target": "users_xurui_documents_workspace_onpractice_frontend_src_main_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Inbox/Inbox.tsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_inbox_inbox_tsx",
+      "_tgt": "inbox_handleaddtask",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_inbox_inbox_tsx",
+      "target": "inbox_handleaddtask",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Inbox/Inbox.tsx",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_inbox_inbox_tsx",
+      "_tgt": "inbox_handlekeydown",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_inbox_inbox_tsx",
+      "target": "inbox_handlekeydown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Inbox/Inbox.tsx",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_inbox_inbox_tsx",
+      "_tgt": "inbox_formattime",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_inbox_inbox_tsx",
+      "target": "inbox_formattime",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Inbox/Inbox.tsx",
+      "source_location": "L31",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_inbox_inbox_tsx",
+      "_tgt": "inbox_handledecision",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_inbox_inbox_tsx",
+      "target": "inbox_handledecision",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Inbox/Inbox.tsx",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_src": "inbox_handlekeydown",
+      "_tgt": "inbox_handleaddtask",
+      "source": "inbox_handleaddtask",
+      "target": "inbox_handlekeydown",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Archive/Archive.tsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_archive_archive_tsx",
+      "_tgt": "archive_handletoggleexpand",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_archive_archive_tsx",
+      "target": "archive_handletoggleexpand",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Layout/Layout.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_layout_layout_tsx",
+      "_tgt": "layout_particles",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_layout_layout_tsx",
+      "target": "layout_particles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Layout/Layout.tsx",
+      "source_location": "L40",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_layout_layout_tsx",
+      "_tgt": "layout_handlenavclick",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_layout_layout_tsx",
+      "target": "layout_handlenavclick",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Recycle/Recycle.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_recycle_recycle_tsx",
+      "_tgt": "recycle_recycle",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_recycle_recycle_tsx",
+      "target": "recycle_recycle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Projects/Projects.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_projects_projects_tsx",
+      "_tgt": "projects_projects",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_projects_projects_tsx",
+      "target": "projects_projects",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/ProjectDetail/ProjectDetail.tsx",
+      "source_location": "L88",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_projectdetail_projectdetail_tsx",
+      "_tgt": "projectdetail_handleback",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_projectdetail_projectdetail_tsx",
+      "target": "projectdetail_handleback",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/ProjectDetail/ProjectDetail.tsx",
+      "source_location": "L95",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_projectdetail_projectdetail_tsx",
+      "_tgt": "projectdetail_handletogglecomplete",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_projectdetail_projectdetail_tsx",
+      "target": "projectdetail_handletogglecomplete",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/ProjectDetail/ProjectDetail.tsx",
+      "source_location": "L103",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_projectdetail_projectdetail_tsx",
+      "_tgt": "projectdetail_handlefinishsplitting",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_projectdetail_projectdetail_tsx",
+      "target": "projectdetail_handlefinishsplitting",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/ProjectDetail/ProjectDetail.tsx",
+      "source_location": "L108",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_projectdetail_projectdetail_tsx",
+      "_tgt": "projectdetail_handleaddnodes",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_projectdetail_projectdetail_tsx",
+      "target": "projectdetail_handleaddnodes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/ProjectDetail/ProjectDetail.tsx",
+      "source_location": "L156",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_projectdetail_projectdetail_tsx",
+      "_tgt": "projectdetail_handleadvancestage",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_projectdetail_projectdetail_tsx",
+      "target": "projectdetail_handleadvancestage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/ProjectDetail/ProjectDetail.tsx",
+      "source_location": "L172",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_projectdetail_projectdetail_tsx",
+      "_tgt": "projectdetail_handlecompletereview",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_projectdetail_projectdetail_tsx",
+      "target": "projectdetail_handlecompletereview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Possibility/Possibility.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_possibility_possibility_tsx",
+      "_tgt": "possibility_possibility",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_possibility_possibility_tsx",
+      "target": "possibility_possibility",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "/Users/xurui/Documents/workspace/onPractice/frontend/src/components/Execution/Execution.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "users_xurui_documents_workspace_onpractice_frontend_src_components_execution_execution_tsx",
+      "_tgt": "execution_handletogglecomplete",
+      "source": "users_xurui_documents_workspace_onpractice_frontend_src_components_execution_execution_tsx",
+      "target": "execution_handletogglecomplete",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
