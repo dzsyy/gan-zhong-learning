@@ -1,0 +1,15 @@
+target/
+test-results/
+node_modules/
+*.class
+*.jar
+*.war
+*.ear
+.DS_Store
+*.log
+*.iml
+.idea/
+*.swp
+*.swo
+*~
+graphify-out/
